@@ -45,7 +45,7 @@ function getTwitchInfo(user) {
   });
 };
 
-var users = ["ESL_SC2", "OgamingSC2", "cretetion", "freecodecamp", "storbeck", "habathcx", "RobotCaleb", "noobs2ninjas", "medryBW"];
+var users = ["ESL_SC2", "OgamingSC2", "cretetion", "freecodecamp", "storbeck", "habathcx", "RobotCaleb", "noobs2ninjas", "medryBW", "ninja", "bungie", "RocketLeague", "TSM_Myth", "OverwatchLeague", "sodapoppin", "shroud", "RiotGamesTurkish", "DrDisRespectLIVE", "LIRIK"];
 var testUsers = ["ESL_SC2"];
 
 $(document).ready(function() {
